@@ -1,1 +1,1 @@
-# Automation-QA
+# edgeucation projects for automation QA from SoftUni
